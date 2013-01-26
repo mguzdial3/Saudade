@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FacePlayah.cs">
+    <Files>
+      <File FileName="Assets/CharacterMotion.cs" Line="171" Column="5" />
+      <File FileName="Assets/FacePlayah.cs" Line="23" Column="36" />
+      <File FileName="Assets/OnTriggerRaycast.cs" Line="66" Column="52" />
+      <File FileName="Assets/ConstantOffOn.cs" Line="39" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
